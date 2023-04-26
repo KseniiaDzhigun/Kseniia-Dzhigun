@@ -40,4 +40,4 @@ I am a Software Engineer Frontend from Switzerland.
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=KseniiaDzhigun&theme=sunset-gradient)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDzhigun&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDzhigun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
