@@ -37,7 +37,7 @@ I am a Software Engineer Frontend from Switzerland.
 
 ---
 
-### 🔥 &nbsp; My Stats :
+<!-- ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KseniiaDzhigun&date_format=j%20M%5B%20Y%5D&card_width=494)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDzhigun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDzhigun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
