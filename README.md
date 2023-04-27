@@ -1,7 +1,7 @@
 # Hallo! My name is Kseniia 
 
 <div >
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" height="300" object-fit="cover"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" object-fit="cover"/>
 </div>
 
 ### :woman_technologist: &nbsp;About Me :
@@ -38,6 +38,6 @@ I am a Software Engineer Frontend from Switzerland.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=KseniiaDzhigun&theme=sunset-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KseniiaDzhigun&date_format=j%20M%5B%20Y%5D&card_width=494)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDzhigun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
