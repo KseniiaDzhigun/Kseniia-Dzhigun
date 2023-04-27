@@ -34,10 +34,10 @@ I am a Software Engineer Frontend from Switzerland.
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
-
+<!-- 
 ---
 
-<!-- ### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KseniiaDzhigun&date_format=j%20M%5B%20Y%5D&card_width=494)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaDzhigun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
